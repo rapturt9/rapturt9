@@ -27,7 +27,7 @@ My core focus is on **AI Safety research**, specifically working towards **Guara
 ### 🔗 Connect with Me:
 
 * **LinkedIn:** [linkedin.com/in/rampotham](https://linkedin.com/in/rampotham)
-* **AI Control Literature Review:** [AI Control LessWrong Post](https://www.lesswrong.com/posts/3PBvKHB2EmCujet3j/ai-control-methods-literature-review)]
+* **AI Control Literature Review:** [AI Control LessWrong Post](https://www.lesswrong.com/posts/3PBvKHB2EmCujet3j/ai-control-methods-literature-review)
 
 ### 💡 Currently Exploring:
 
