@@ -38,3 +38,5 @@ My core focus is on **AI Safety research**, specifically working towards **Guara
 ---
 
 Thanks for stopping by! I'm always open to discussing ideas and potential collaborations in AI safety.
+
+I publish personal daily standups publicly to maintain accountability. Feel free to look and copy the template: [Daily Standups](https://docs.google.com/document/d/e/2PACX-1vSgDIsCVPauhlCFDTuU0TITb7Lj44d1b9DdtvxcgNJDi3YAXN_QJvmH9wRhvsMP9gOakoJXH4Ye3DSd/pub)
