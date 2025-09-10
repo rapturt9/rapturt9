@@ -11,7 +11,7 @@ I'm an **AI Safety Researcher** at the MIT Algorithmic Alignment Lab
 
 ### About Me
 
-I'm focused on ensuring the development of advanced AI leads to a safe and prosperous future. My perspective is shaped by my prior experience as the founder of a VC-backed startup where I built autonomous AI agents. This gave me a firsthand understanding of the rapid progress and potential risks in AI, motivating me to pivot my career to focus on them. This work is grounded in my B.S. in Artificial Intelligence from Carnegie Mellon and my current research as a CBAI Fellow.
+I'm focused on ensuring the development of advanced AI leads to a safe and prosperous future. My perspective is shaped by my prior experience as the founder of a VC-backed startup where I built autonomous AI agents. This gave me a firsthand understanding of the rapid progress and potential risks in AI, motivating me to pivot my career to focus on them. My research focuses on mitigating existential risk from AI.
 
 ---
 
