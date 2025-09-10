@@ -15,16 +15,6 @@ I'm focused on ensuring the development of advanced AI leads to a safe and prosp
 
 ---
 
-### 🔭 My Core Research: ForecastLabs
-
-My primary research direction is **ForecastLabs**, an initiative to provide the strategic foresight needed to effectively reduce AI risk. The mission is to help steer humanity toward a safer world by answering critical questions about the future of AI.
-
-* 🗺️ **Mapping the Future of AI:** Building a quantitative, predictive map of the AI landscape to identify the most effective interventions for reducing risk.
-* 🧭 **Improving Strategic Foresight:** Producing actionable analysis for the researchers, funders, and policymakers making critical decisions about AI.
-* 📈 **Developing Advanced Forecasting Systems:** Creating and aggregating predictive models to rival human superforecasters on questions vital to the safe development of AI.
-
----
-
 ### 🚀 Featured Publications
 
 While my current focus is on strategic foresight, my background includes technical work on agent alignment:
