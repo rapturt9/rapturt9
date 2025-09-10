@@ -2,10 +2,10 @@
 
 I'm an **AI Safety Researcher** at the MIT Algorithmic Alignment Lab
 
+* 🎓 **Google Scholar:** [Research](https://scholar.google.com/citations?user=Uc-rKk0AAAAJ&hl=en)
 * 🌐 **Portfolio:** [rampotham.com](https://rampotham.com)
 * 📄 **LinkedIn:** [/in/rampotham](https://linkedin.com/in/rampotham)
 * 🐦 **X:** [@PothamRam](https://twitter.com/PothamRam)
-* 🎓 **Google Scholar:** [Research](https://scholar.google.com/citations?user=Uc-rKk0AAAAJ&hl=en)
 
 ---
 
