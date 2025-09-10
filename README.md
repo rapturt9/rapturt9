@@ -17,8 +17,6 @@ I'm focused on ensuring the development of advanced AI leads to a safe and prosp
 
 ### 🚀 Featured Publications
 
-While my current focus is on strategic foresight, my background includes technical work on agent alignment:
-
 * **Evaluating LLM Agent Adherence to Hierarchical Safety Principles**
   * *Description:* A lightweight benchmark for evaluating an LLM agent's ability to uphold a high-level safety principle when faced with conflicting instructions.
   * *Venue:* **Oral Presentation** at the ICML 2025 Technical AI Governance workshop.
@@ -33,7 +31,6 @@ While my current focus is on strategic foresight, my background includes technic
 
 ### 💻 Tech Stack & Skills
 
-* **AI Safety & Strategy:** Strategic Foresight, Risk Modeling, Agent Evaluations, Corrigibility
+* **AI Safety Concepts:** Empirical Alignment, Safety Evaluations, Robustness Testing, Guardrails, Safety Cases
 * **Languages & Frameworks:** Python, PyTorch, TensorFlow
-* **Agentic Systems:** Multi-Agent Systems (MAS), Human-in-the-Loop Evaluation
-* **Cloud & Tools:** AWS (Serverless, Lambda), Git
+* **ML & Engineering:** Multi-Agent Systems, LLM Fine-Tuning, AWS, Cloud Architecture
