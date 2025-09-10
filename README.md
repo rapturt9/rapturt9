@@ -1,6 +1,6 @@
 # Hi, I'm Ram Potham 👋
 
-I'm an **AI Safety Researcher & CBAI Fellow at MIT/Harvard** focused on the technical alignment of advanced AI systems.
+I'm an **AI Safety Researcher** at the MIT Algorithmic Alignment Lab
 
 * 🌐 **Portfolio:** [rampotham.com](https://rampotham.com)
 * 📄 **LinkedIn:** [/in/rampotham](https://linkedin.com/in/rampotham)
